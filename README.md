@@ -1,6 +1,6 @@
 ## Hi, I'm Gabriel! 😄
 
-  👨‍💻 I'm a Web Development student at [Trybe](https://betrybe.com)!
+  👨‍💻 I'm studying Web Development at [Trybe](https://betrybe.com)!
   
   🇧🇷 I’m from Brazil.
 <div align="center">
