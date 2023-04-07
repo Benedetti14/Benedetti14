@@ -1,8 +1,8 @@
 ## Hi, I'm Gabriel! 😄
 
-  👨‍💻 I'm studying Web Development at [Trybe](https://betrybe.com)!
+  👨‍💻 I'm an Full Stack Developer!
   
-  🇧🇷 I’m from Brazil.
+  🇧🇷 🇦🇪 I’m from Brazil but current living in Dubai.
 <div align="center">
   <a href="https://github.com/Benedetti14">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Benedetti14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
