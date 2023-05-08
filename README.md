@@ -1,6 +1,6 @@
 ## Hi, I'm Gabriel! 😄
 
-  👨‍💻 I'm an Full Stack Developer!
+  👨‍💻 I'm a Full Stack Developer!
   
   🇧🇷 🇦🇪 I’m from Brazil but current living in Dubai.
 <div align="center">
